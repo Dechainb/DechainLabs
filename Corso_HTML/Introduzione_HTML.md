@@ -2,6 +2,8 @@
 
 [Sito ufficiale HTML](https://html.spec.whatwg.org/ "Sito Ufficiale")
 
+[Midali](https://codegrind.it/documentazione/html/elementi)
+
 ### Breve storia di HTML
 La sua storia inizia negli anni ‘80, quando il fisico inglese Tim Berners-Lee, presso il CERN (Organizzazione Europea per la Ricerca Nucleare), sviluppò un sistema di gestione delle informazioni basato su ipertesti e collegamenti. Nel 1991, venne pubblicata la prima versione dell’HTML con un set limitato di elementi e attributi.
 
